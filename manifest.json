@@ -1,0 +1,16 @@
+{
+  "name": "Auto-Carga Jonfa",
+  "short_name": "JonfaApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#2c3e50",
+  "description": "Sistema de optimización de carga para incubadoras.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942781.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
